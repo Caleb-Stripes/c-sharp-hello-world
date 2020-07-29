@@ -1,0 +1,13 @@
+C:\Code\c-sharp-hello-world\bin\Debug\netcoreapp3.1\c-sharp-hello-world.exe
+C:\Code\c-sharp-hello-world\bin\Debug\netcoreapp3.1\c-sharp-hello-world.deps.json
+C:\Code\c-sharp-hello-world\bin\Debug\netcoreapp3.1\c-sharp-hello-world.runtimeconfig.json
+C:\Code\c-sharp-hello-world\bin\Debug\netcoreapp3.1\c-sharp-hello-world.runtimeconfig.dev.json
+C:\Code\c-sharp-hello-world\bin\Debug\netcoreapp3.1\c-sharp-hello-world.dll
+C:\Code\c-sharp-hello-world\bin\Debug\netcoreapp3.1\c-sharp-hello-world.pdb
+C:\Code\c-sharp-hello-world\obj\Debug\netcoreapp3.1\c-sharp-hello-world.csprojAssemblyReference.cache
+C:\Code\c-sharp-hello-world\obj\Debug\netcoreapp3.1\c-sharp-hello-world.AssemblyInfoInputs.cache
+C:\Code\c-sharp-hello-world\obj\Debug\netcoreapp3.1\c-sharp-hello-world.AssemblyInfo.cs
+C:\Code\c-sharp-hello-world\obj\Debug\netcoreapp3.1\c-sharp-hello-world.csproj.CoreCompileInputs.cache
+C:\Code\c-sharp-hello-world\obj\Debug\netcoreapp3.1\c-sharp-hello-world.dll
+C:\Code\c-sharp-hello-world\obj\Debug\netcoreapp3.1\c-sharp-hello-world.pdb
+C:\Code\c-sharp-hello-world\obj\Debug\netcoreapp3.1\c-sharp-hello-world.genruntimeconfig.cache
